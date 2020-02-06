@@ -1,0 +1,11 @@
+C:\Users\Dmitrii\source\repos\BagAlgorithm\BagAlgorithm\bin\Debug\netcoreapp3.1\BagAlgorithm.exe
+C:\Users\Dmitrii\source\repos\BagAlgorithm\BagAlgorithm\bin\Debug\netcoreapp3.1\BagAlgorithm.deps.json
+C:\Users\Dmitrii\source\repos\BagAlgorithm\BagAlgorithm\bin\Debug\netcoreapp3.1\BagAlgorithm.runtimeconfig.json
+C:\Users\Dmitrii\source\repos\BagAlgorithm\BagAlgorithm\bin\Debug\netcoreapp3.1\BagAlgorithm.runtimeconfig.dev.json
+C:\Users\Dmitrii\source\repos\BagAlgorithm\BagAlgorithm\bin\Debug\netcoreapp3.1\BagAlgorithm.dll
+C:\Users\Dmitrii\source\repos\BagAlgorithm\BagAlgorithm\bin\Debug\netcoreapp3.1\BagAlgorithm.pdb
+C:\Users\Dmitrii\source\repos\BagAlgorithm\BagAlgorithm\obj\Debug\netcoreapp3.1\BagAlgorithm.csprojAssemblyReference.cache
+C:\Users\Dmitrii\source\repos\BagAlgorithm\BagAlgorithm\obj\Debug\netcoreapp3.1\BagAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Dmitrii\source\repos\BagAlgorithm\BagAlgorithm\obj\Debug\netcoreapp3.1\BagAlgorithm.AssemblyInfo.cs
+C:\Users\Dmitrii\source\repos\BagAlgorithm\BagAlgorithm\obj\Debug\netcoreapp3.1\BagAlgorithm.dll
+C:\Users\Dmitrii\source\repos\BagAlgorithm\BagAlgorithm\obj\Debug\netcoreapp3.1\BagAlgorithm.pdb
